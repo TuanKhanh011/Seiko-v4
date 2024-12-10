@@ -2,7 +2,7 @@ const moment = require("moment-timezone");
 const { readdirSync, readFileSync, writeFileSync, existsSync, unlinkSync, readJSONSync } = require("fs-extra");
 const { join, resolve, extname } = require("path");
 const logger = require("./main/utils/log.js");
-const login = require("./login");
+const login = require("./main/login");
 const fs = require('fs');
 const chalk = require("chalkercli");
 global.Seiko = {
@@ -100,7 +100,7 @@ async function onBot({ models }) {
          status = true;
          if (queues.length < 20) {
              const itemsNeeded = Math.min(20- queues.length, 5);
-             const uploadPromises = [...Array(itemsNeeded)].map(() => upload(global.api.vdanime[Math.floor(Math.random() * global.api.vdanime.length)]));
+             const uploadPromises = [...Array(itemsNeeded)].map(() => upload(global.api.cosplay[Math.floor(Math.random() * global.api.cosplay.length)]));
              const res = await Promise.all(uploadPromises);
              console.log(res);
              queues.push(...res);
