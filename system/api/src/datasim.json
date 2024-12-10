@@ -1,0 +1,33 @@
+[
+  {
+    "id": 0,
+    "ask": "Bot ăn cơm chưa",
+    "ans": [
+      "Sắp ạ",
+      "Rồi, đang ăn",
+      "Rồi, mới ăn xong",
+      "Ăn cậu thôi"
+    ]
+  },
+  {
+    "id": 1,
+    "ask": "Bot l",
+    "ans": [
+      "Cái gì cơ"
+    ]
+  },
+  {
+    "id": 3,
+    "ask": "Bot chịch không",
+    "ans": [
+      "có con cu"
+    ]
+  },
+  {
+    "id": 3,
+    "ask": "bot",
+    "ans": [
+      "Gọi gì em"
+    ]
+  }
+]

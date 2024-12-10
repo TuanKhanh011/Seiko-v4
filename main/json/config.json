@@ -1,0 +1,42 @@
+{
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "restartMqtt": {
+        "enable": true,
+        "minutes": 120
+    },
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "adminOnly": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "DeveloperMode": false,
+    "EMAIL": "lekhanhhihi@hotmail.com",
+    "PASSWORD": "dong2006",
+    "OTPKEY": "",
+    "BOTNAME": "𝚂𝚎𝚒𝚔𝚘 𝚅𝟺",
+    "PREFIX": "/",
+    "BOXADMIN": "6328370547184627",
+    "NDH": [
+        "100090458979503",
+        ""
+    ],
+    "ADMINBOT": [],
+    "APPSTATEPATH": "fbstate.json",
+    "version": "4.5.0",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    },
+    "log": {
+        "enable": true
+    }
+}

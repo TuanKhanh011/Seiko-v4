@@ -1,0 +1,151 @@
+{
+    "total": [
+        {
+            "id": "502275138",
+            "count": 6,
+            "lastInteraction": 1723268091495
+        },
+        {
+            "id": "1270787329",
+            "count": 0,
+            "lastInteraction": null
+        },
+        {
+            "id": "1631016269",
+            "count": 29,
+            "lastInteraction": 1723698682822
+        },
+        {
+            "id": "61552548836547",
+            "count": 0,
+            "lastInteraction": null
+        },
+        {
+            "id": "61560186862354",
+            "count": 0,
+            "lastInteraction": null
+        },
+        {
+            "id": "100068096370437",
+            "count": 177,
+            "lastInteraction": 1723698682049
+        },
+        {
+            "id": "100094629826721",
+            "count": 0,
+            "lastInteraction": null
+        }
+    ],
+    "week": [
+        {
+            "id": "502275138",
+            "count": 6,
+            "lastInteraction": 1723268091495
+        },
+        {
+            "id": "1270787329",
+            "count": 0,
+            "lastInteraction": null
+        },
+        {
+            "id": "1631016269",
+            "count": 29,
+            "lastInteraction": 1723698682822
+        },
+        {
+            "id": "61552548836547",
+            "count": 0,
+            "lastInteraction": null
+        },
+        {
+            "id": "61560186862354",
+            "count": 0,
+            "lastInteraction": null
+        },
+        {
+            "id": "100068096370437",
+            "count": 177,
+            "lastInteraction": 1723698682049
+        },
+        {
+            "id": "100094629826721",
+            "count": 0,
+            "lastInteraction": null
+        }
+    ],
+    "day": [
+        {
+            "id": "502275138",
+            "count": 6,
+            "lastInteraction": 1723268091495
+        },
+        {
+            "id": "1270787329",
+            "count": 0,
+            "lastInteraction": null
+        },
+        {
+            "id": "1631016269",
+            "count": 29,
+            "lastInteraction": 1723698682822
+        },
+        {
+            "id": "61552548836547",
+            "count": 0,
+            "lastInteraction": null
+        },
+        {
+            "id": "61560186862354",
+            "count": 0,
+            "lastInteraction": null
+        },
+        {
+            "id": "100068096370437",
+            "count": 177,
+            "lastInteraction": 1723698682049
+        },
+        {
+            "id": "100094629826721",
+            "count": 0,
+            "lastInteraction": null
+        }
+    ],
+    "month": [
+        {
+            "id": "502275138",
+            "count": 6,
+            "lastInteraction": 1723268091495
+        },
+        {
+            "id": "1270787329",
+            "count": 0,
+            "lastInteraction": null
+        },
+        {
+            "id": "1631016269",
+            "count": 29,
+            "lastInteraction": 1723698682822
+        },
+        {
+            "id": "61552548836547",
+            "count": 0,
+            "lastInteraction": null
+        },
+        {
+            "id": "61560186862354",
+            "count": 0,
+            "lastInteraction": null
+        },
+        {
+            "id": "100068096370437",
+            "count": 177,
+            "lastInteraction": 1723698682049
+        },
+        {
+            "id": "100094629826721",
+            "count": 0,
+            "lastInteraction": null
+        }
+    ],
+    "time": 6
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "timer": "18:00:00",
+    "message": [
+      "Chúc mọi người buổi chiều vui vẻ 😘"
+    ],
+    "type": "s"
+  },
+  {
+    "timer": "00:07:00",
+    "message": [
+      "Chúc mọi người ngủ ngon 😴"
+    ],
+    "type": "s",
+    "lastSentTime": null,
+    "disabled": false
+  },
+  {
+    "timer": "11:03:00",
+    "message": [
+      "Buổi trưa vui vẻ nha 💗"
+    ],
+    "type": "s",
+    "lastSentTime": null,
+    "disabled": false
+  }
+]

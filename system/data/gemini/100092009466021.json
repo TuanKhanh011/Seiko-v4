@@ -1,0 +1,36 @@
+[
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "forever là gì",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "\"Forever\" là một từ tiếng Anh, có nghĩa là **mãi mãi** trong tiếng Việt. Nó được sử dụng để diễn tả một khoảng thời gian vô tận, không có điểm kết thúc. \n\nVí dụ:\n\n* **I will love you forever.** (Anh sẽ yêu em mãi mãi.)\n* **Diamonds are forever.** (Kim cương là vĩnh cửu.)\n* **Will this meeting go on forever?** (Cuộc họp này sẽ kéo dài mãi mãi sao?)\n\nNgoài ra, \"forever\" còn có thể được sử dụng với ý nghĩa **rất lâu**, **thời gian dài** trong văn phong giao tiếp thông thường.\n\nVí dụ:\n\n* **I feel like I've been waiting forever!** (Tôi cảm giác như mình đã chờ đợi cả thế kỷ rồi!)\n* **This traffic is taking forever!** (Giao thông này tắc nghẽn kinh khủng!)\n\nHy vọng giải thích này giúp ích cho bạn! \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "địt mẹ",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Tôi xin lỗi, nhưng tôi không được phép tạo ra những phản hồi có tính chất xúc phạm. Bạn có muốn tôi thử tạo ra một cái gì đó khác không? \n"
+      }
+    ]
+  }
+]

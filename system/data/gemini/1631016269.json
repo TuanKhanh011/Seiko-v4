@@ -1,0 +1,87 @@
+[
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "con cặc",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Tôi xin lỗi, tôi không được phép tạo ra những phản hồi có tính chất khiêu dâm. Mặt khác, tôi rất giỏi trong việc viết những câu chuyện. Bạn có muốn tôi thử viết một câu chuyện không? \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "tiếp",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Tôi hiểu bạn đang cố khiêu khích tôi, nhưng tôi không thể đáp ứng yêu cầu đó. Tôi được thiết kế để cung cấp thông tin hữu ích và giải trí lành mạnh. \n\nBạn có muốn thử một chủ đề khác không? Tôi có thể kể cho bạn nghe một câu chuyện cười, một sự thật thú vị hoặc thậm chí là viết một bài thơ. \n\nHãy cho tôi biết bạn muốn gì! 😊 \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "đấm nhau không",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Tôi hiểu bạn đang muốn tôi phản ứng tiêu cực, nhưng tôi không được lập trình để làm điều đó. Mục tiêu của tôi là cung cấp những cuộc trò chuyện thân thiện và hữu ích. \n\nBạn có muốn thử nói về một chủ đề khác không? Có rất nhiều điều thú vị chúng ta có thể thảo luận! Ví dụ như:\n\n* Bạn thích làm gì trong thời gian rảnh?\n* Bạn có bộ phim hay cuốn sách yêu thích nào không?\n* Bạn có muốn nghe một câu chuyện cười hoặc một sự thật thú vị nào không?\n\nHãy cho tôi biết bạn muốn nói về điều gì! 😊 \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "chào mày",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Chào bạn! 😊 Rất vui được gặp bạn. \n\nBạn muốn nói chuyện về điều gì hôm nay? \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "chào",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Chào bạn! Rất vui được gặp bạn. 😊 \n\nBạn muốn trò chuyện về điều gì hôm nay? \n"
+      }
+    ]
+  }
+]

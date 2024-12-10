@@ -1,0 +1,107 @@
+[
+    {
+        "Language": "vi",
+        "Folder": {
+            "Index": {
+                "ErrAppState": "Appstate die, vui lòng thay mới!",
+                "CheckPointLevelI": "Phát Hiện CheckPoint - Hãy thay appstate!",
+                "UID": "Login ID: %1",
+                "Area": "Vùng Của Tài Khoản Là: %1",
+                "NoAreaData": "Không Thể Lấy Vùng Của Tài Khoản!",
+                "NoAreaDataBypass": "Không thể lấy vùng của tài khoản nhưng fca đã bypass😔",
+                "OnLogin": "Đang Đăng Nhập ...",
+                "InvaildAccount": "Sai Mật Khẩu Hoặc Tài Khoản !",
+                "TwoAuth": "Bạn Đang Bật 2 Bảo Mật !",
+                "InvaildTwoAuthCode": "Sai Mã Hai Bảo Mật !",
+                "ApprovalsErr": "Lỗi Khi Đăng Nhập Với Hai Bảo Mật !",
+                "VerifiedCheck": "Xác Nhận Từ Trình Duyệt, Đang Đăng Nhập...",
+                "ForceLoginNotEnable": "Không Thể Đăng Nhập, Hãy Thử Bật 'forceLogin' !",
+                "SubmitErrSuccess": "Đã Gửi Báo Cáo Lỗi Tới Server !",
+                "ErrorWhileSendErr": "Đã Xảy Ra Lỗi Khi Cố Gửi Lỗi Đến Server !",
+                "OnProcess": "Start Login Process!",
+                "BackupNoti": "Đang Thay AppState Từ Backup, Nếu Điều Này Tiếp Tục Diễn Ra, Hãy Liên Hệ Với Fb.com/Lazic.Kanzu",
+                "ErrGetPassWord": "Lỗi Khi Lấy Mật Khẩu Mã Hoá AppState !",
+                "ErrGenerateKey": "Lỗi Khi Tạo Mật Khẩu Cho AppState !",
+                "UnsupportedDevice": "Hệ Điều Hành Của Bạn Hiện Không Được Hỗ Trợ !",
+                "NotReadyToDecrypt": "Chưa Sẵn Sàng Để Giải Hóa Appstate !",
+                "DecryptSuccess": "Giải Hóa Appstate Thành Công!",
+                "ErrBackup": "Lỗi Khi Sao Lưu AppState, Hãy Thay AppState !",
+                "DecryptFailed": "Giải Hóa Không Thành Công, Hãy Thử Thay AppState !",
+                "InvaildAppState": "Không Nhận Dạng Được AppState, Xin Vui Lòng Thay AppState !",
+                "YourAppStatePass": "Mật Khẩu AppState Của Bạn Là: %1",
+                "BackupFailed": "Sao Lưu AppState Không Thành Công !",
+                "ScreenShotConsoleAndSendToAdmin": "Chụp Lại Màn Hình Dòng Này Và Gửi Vô Facebook: Fb.com/Lazic.Kanzu",
+                "DoneLogin": "Hoàn Thành Quá Trình Đăng Nhập !",
+                "AutoCheckUpdateFailure": "Lỗi Khi Kiểm Tra Cập Nhật, Vui Lòng Thử Lại Sau !",
+                "AutoCheckUpdate": "Đang Kiểm Tra Bản Cập Nhật !",
+                "NewVersionFound": "Phiên Bản Mới Đã Được Cập Nhật: %1 => %2",
+                "AutoUpdate": "Tiến Hành Tự Động Cập Nhật Lên Phiên Bản Mới Nhất !",
+                "UpdateSuccess": "Nâng Cấp Phiên Bản Thành Công !",
+                "RestartAfterUpdate": "Đang Khởi Động Lại Để Phiên Bản Mới Có Hiệu Lực !",
+                "UpdateFailed": "Lỗi Khi Nâng Cấp Lên Phiên Bản Mới Nhất !",
+                "UseSupportToolAfterUpdateFailed": "Nâng Cấp Thức Bại, Tiến Hành Sử Dụng Công Cụ Hỗ Trợ !",
+                "InstallSupportTool": "Đang Tải Dụng Cụ Hộ Trợ Cho Fca !",
+                "NotiAfterUseToolFail": "Hãy Tự Fix Bằng Cách Nhập:",
+                "LocalVersion": "Phiên Bản Đang Dùng Hiện Tại Là: %1 !",
+                "EncryptSuccess": "Mã Hoá AppState Thành Công !",
+                "ProcessDone": "Ending With: %1!",
+                "CountTime": "Count Time: %1",
+                "InvaildMainColor": "%1 Không Phải Là Một Màu Hex !",
+                "IsNotABoolean": "%1 Không Phải Là Một Boolean, Cần Là true Hoặc false !",
+                "InvaildOption": "%1 Không Phải Là Một Lựa Chọn !",
+                "EncryptStateOff": "Tính Năng EncryptState Đã Bị Tắt !",
+
+                "AutoLogin": "AutoLogin Đang Bật, Tiến Hành Đăng Nhập Lại !",
+                "TypeAccount": "Hãy Nhập Tài Khoản: ",
+                "TypePassword": "Hãy Nhập Mật Khẩu: ",
+                "TypeAccountError": "Tài Khoản Cần Là ID Hoặc Số Điện Thoại Hay Là Gmail !",
+                "ErrDataBase": "Lỗi Khi Đặt Dữ Liệu Auto Login !",
+                "SuccessSetData": "Đã Đặt Dữ Liệu Auto Login Thành Công !",
+                "Missing": "Bạn Vui Lòng Ghi Mã 2Fa Theo Hướng Dẫn Của Ảnh Trong FastConfigFca.json Dòng AuthString !",
+
+                "EnterSecurityCode": "Hãy Nhập Mã Xác Thực 2 Yếu Tố Của Bạn: ",
+                "ErrThroughCookies": "Đã Xảy Ra Lỗi Khi Xuyên 2Fa, Hãy Nhập Mã 2Fa Lại !",
+
+                "NodeVersionNotSupported": "Phiên Bản: %1 Không Được Hỗ Trợ, Tự Động Tải Phiên Bản Nodejs V14",
+                "UsingNVM": "Bạn đang sử dụng nvm để control node version, hãy bấm 'nvm install 14.17.0' sau đó bấm 'nvm use 14.17.0' để chuyển sang phiên bản được hỗ trợ !",
+                "DownloadingNode": "Đang tải phiên bản Node V14 Được Hỗ Trợ !",
+                "NodeDownloadingComplete": "Tải Phiên Bản Node V14 Thành Công !",
+                "RestartRequire": "Tải Thành Công, Yêu Cầu Người Dùng Restart Máy Để Có Tác Dụng!",
+                "ErrNodeDownload": "Đã Xảy Ra Lỗi Trong Lúc Tự Động Tải Node Phiên Bản 14, Hãy Liên Hệ Fb.com/Lazic.Kanzu!",
+                "RestartingN": "Đang Khởi Động Lại Chương Trình",
+                "Rebuilding": "Đang Rebuild Lại Package NPM tránh lỗi !",
+                "ErrRebuilding": "Đã Sảy Ra Lỗi Tại Khu Vực Rebuilding - npm install",
+                "SuccessRebuilding": "Rebuilding Thành Công !",
+                "UnableToConnect": "Đã Sảy Ra Lỗi Trong Lúc Kết Nối Tới Máy Chủ Instant Action, Hãy Kiểm Tra Lại Wifi!",
+                "EVMChange": "Đang Thay Đổi Replit.nix Để Hỗ Trợ Node V14!",
+                "EVMChangeSuccess": "Thay Đổi Replit.nix Thành Công, Tiến Hành Restarting!",
+
+                "Ws_TypeUserName": "Hãy Nhập Một UserName Cho Tài Khoản Websocket Extension của bạn: ",
+                "Ws_TypePassWord": "Hãy Nhập Một Mật Khẩu Cho Tài Khoản WebSocket Extension của bạn : ",
+                "Ws_Success": "Đặt Dữ Liệu Cho Websocket Extension Thành Công !",
+                "Ws_2Fa": "Đây là mã xác thực 2 yếu tố(2FA) của bạn cho Horizon_Extension, hãy sử dụng Google Authenticator để lấy mã phòng trường hợp quên mật khẩu hoặc yêu cầu xác minh !\n\n=> Đây: %1",
+                "Ws_2Fa_Check": "Hãy nhập mã 2Fa của bạn từ ứng dụng xác thực: ",
+                
+                "Bypass_956": "Đang thử nghiệm coi bạn có dính checkpoint 956 hay không!"
+            },
+            "ExtraGetThread": {
+                "CreateDatabaseSuccess": "Create Data Thread: %1",
+                "CreateDatabaseFailure": "Create Data Fail Thread: %1",
+                "alreadyUpdate": "%1 Aready Update Database",
+                "updateDataSuccess": "Update Data Thread %1!",
+                "updateDataFailure": "Update Data Thread %1 Failed!"
+            },
+            "ExtraUpTime": {
+                "Uptime": "Kết Nối Đến Server Uptime Thành Công !",
+                "PM2": "Đang Vào Chế Độ Uptime !",
+                "InPm2Mode": "Bạn Đang Ở Chế Độ Uptime PM2",
+                "NotSupport": "Không Hỗ Trợ Uptime Server!",
+                "Maintenance": "Server Uptime Đang Bảo Trì, Hãy Thử Lại Sau !"
+            },
+            "Src": {
+                "AutoRestart": "Tự Động Khởi Động Lại Sau: %1 Phút Nữa !",
+                "OnRestart": "Đang Restart..."
+            }
+        }
+    }
+]
