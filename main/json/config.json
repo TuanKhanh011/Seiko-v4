@@ -9,7 +9,7 @@
     },
     "restartMqtt": {
         "enable": true,
-        "minutes": 120
+        "minutes": 10
     },
     "autoCreateDB": true,
     "allowInbox": true,
@@ -22,7 +22,7 @@
     "OTPKEY": "",
     "BOTNAME": "𝚂𝚎𝚒𝚔𝚘 𝚅𝟺",
     "PREFIX": "/",
-    "BOXADMIN": "6328370547184627",
+    "BOXADMIN": "",
     "NDH": [
         "100090458979503",
         ""
